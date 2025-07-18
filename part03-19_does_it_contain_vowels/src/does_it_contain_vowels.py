@@ -1,14 +1,3 @@
-# Write your solution here
-# input_string = input("Please type in a string: ")
-# if "a" in input_string:
-#         print("a found")
-# else:
-#         if "e" in input_string:
-#             print("e found")
-#         else:
-#             if "o" in input_string:
-#                 print("o found")
-#             else:
 input_string = input("Please type in a string: ")
 if "a" in input_string:
     print("a found")
